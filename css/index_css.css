@@ -1,0 +1,17 @@
+/*les separateurs*/
+#separateur{
+    background-color: green;
+    height: 15px;
+    width: 100%;
+
+}
+/*la division de la photo de profile*/
+#div_photo_profile{
+    border: solid ;
+    border-width: 5px;
+}
+/*les liens de labarre de nanvigation*/
+.nav-link:hover{
+    border-bottom: solid green;
+    transition: 2s;
+}
